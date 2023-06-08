@@ -1,0 +1,3 @@
+[submodule "Arduino/UltravioletArduino"]
+	path = Arduino/UltravioletArduino
+	url = git@github.com:blanu/UltravioletArduino.git
