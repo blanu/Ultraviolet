@@ -1,0 +1,3 @@
+The Ultaviolet virtual machine provides a cross-platform, cross-language execution environment. The virtual machine models an unusual instruction set supporting object-oriented, functional, and Effective Programming models of computation. Application code is transpiled to one of the implementation languages, with the virtual machine acting more like a runtime library than a traditional interpreter.
+
+This document describes the virtual machine informally, providing a high-level overview of its purpose, goals, and scope.
